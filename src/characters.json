@@ -1,0 +1,74 @@
+[
+  {
+    "id": 0,
+    "name": "Aisha",
+    "image": "/assets/images/Aisha.png",
+    "isClicked": false
+  },
+  {
+    "id": 1,
+    "name": "Dia",
+    "image": "/assets/images/Dia.png",
+    "isClicked": false
+  },
+  {
+    "id": 2,
+    "name": "Izana",
+    "image": "assets/images/Izana.png",
+    "isClicked": false
+  },
+  {
+    "id": 3,
+    "name": "Kagachi",
+    "image": "assets/images/Kagachi.png",
+    "isClicked": false
+  },
+  {
+    "id": 4,
+    "name": "Kushi",
+    "image": "assets/images/kushi.png",
+    "isClicked": false
+  },
+  {
+    "id": 5,
+    "name": "Linne",
+    "image": "assets/images/linne.png",
+    "isClicked": false
+  },
+  {
+    "id": 6,
+    "name": "Lucika",
+    "image": "assets/images/lucika.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 7,
+    "name": "Mayra",
+    "image": "assets/images/mayura.png",
+    "isClicked": false
+  },
+  {
+    "id": 8,
+    "name": "Regan",
+    "image": "assets/images/regan.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 9,
+    "name": "Wil",
+    "image": "assets/images/wil.png",
+    "isClicked": false
+  },
+  {
+    "id": 10,
+    "name": "Zaav",
+    "image": "assets/images/zaav.png",
+    "isClicked": false
+  },
+  {
+    "id": 11,
+    "name": "Zephyr",
+    "image": "assets/images/zephyr.jpg",
+    "isClicked": false
+  }
+]

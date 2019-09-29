@@ -1,0 +1,23 @@
+.footer {
+    background: #3b4146;
+    height: 100px;
+    position: relative;
+    color: white;
+    overflow: auto;
+}
+
+.footer-bottom {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #3b4146;
+    padding: 8px;
+    font-weight: 600;
+}
+
+.copyright{
+    color: rgb(246, 253, 253);
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
