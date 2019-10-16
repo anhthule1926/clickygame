@@ -4,10 +4,7 @@ import "./Footer.css";
 const Footer = () => (
 	<footer className="footer">
 		<div className="footer-bottom">
-			Click Game!
-
-            <p class="copyright" >© 2019 Anh Thu Le.</p>
-
+            <p class="copyright" > Click Game! © 2019 Anh Thu Le.</p>
         </div>
 	</footer>
 
