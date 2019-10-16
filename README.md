@@ -8,7 +8,7 @@ A clicky memory game done in React. Click on a dwarf to earn points, but don't c
 
 
 ## Link to game
-https://oninaki-clickygame.herokuapp.com/
+https://oninaki-reactgame.herokuapp.com
 
 ## Gambe built with
 React
