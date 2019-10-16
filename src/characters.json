@@ -2,73 +2,73 @@
   {
     "id": 0,
     "name": "Aisha",
-    "image": "public/assets/images/Aisha.png",
+    "image": "https://vignette.wikia.nocookie.net/oninaki/images/9/9a/Aisha_portrait.png/revision/latest?cb=20190527044552",
     "isClicked": false
   },
   {
     "id": 1,
     "name": "Dia",
-    "image": "public/assets/images/Dia.png",
+    "image": "https://vignette.wikia.nocookie.net/oninaki/images/7/7a/Dia_portrait.png/revision/latest?cb=20190527044553",
     "isClicked": false
   },
   {
     "id": 2,
     "name": "Izana",
-    "image": "public/assets/images/Izana.png",
+    "image": "https://vignette.wikia.nocookie.net/oninaki/images/1/1a/Izana_portrait.png/revision/latest?cb=20190527044554",
     "isClicked": false
   },
   {
     "id": 3,
     "name": "Kagachi",
-    "image": "public/assets/images/Kagachi.png",
+    "image": "https://vignette.wikia.nocookie.net/oninaki/images/d/d1/Kagachi_portrait.png/revision/latest/scale-to-width-down/310?cb=20190525035203",
     "isClicked": false
   },
   {
     "id": 4,
     "name": "Kushi",
-    "image": "public/assets/images/kushi.png",
+    "image": "https://vignette.wikia.nocookie.net/oninaki/images/6/69/Kushi_portrait.png/revision/latest?cb=20190525035452",
     "isClicked": false
   },
   {
     "id": 5,
     "name": "Linne",
-    "image": "public/assets/images/linne.png",
+    "image": "https://vignette.wikia.nocookie.net/oninaki/images/d/db/Linne_portrait.png/revision/latest?cb=20190525035427",
     "isClicked": false
   },
   {
     "id": 6,
     "name": "Lucika",
-    "image": "public/assets/images/lucika.jpg",
+    "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/987720/cf86f63e312a788e9f3450b8bb1ca6b519570dfb.jpg",
     "isClicked": false
   },
   {
     "id": 7,
     "name": "Mayra",
-    "image": "public/assets/images/mayura.png",
+    "image": "https://vignette.wikia.nocookie.net/oninaki/images/0/05/Mayura_portrait.png/revision/latest?cb=20190525035353",
     "isClicked": false
   },
   {
     "id": 8,
     "name": "Regan",
-    "image": "public/assets/images/regan.jpg",
+    "image": "https://nintendobserver.com/wp-content/uploads/2019/07/026-2-crop-700x400.jpg",
     "isClicked": false
   },
   {
     "id": 9,
     "name": "Wil",
-    "image": "public/assets/images/wil.png",
+    "image": "https://vignette.wikia.nocookie.net/oninaki/images/b/bf/Wil_portrait.png/revision/latest?cb=20190527044555",
     "isClicked": false
   },
   {
     "id": 10,
     "name": "Zaav",
-    "image": "public/assets/images/zaav.png",
+    "image": "https://vignette.wikia.nocookie.net/oninaki/images/e/e5/Zaav_portrait.png/revision/latest?cb=20190527044557",
     "isClicked": false
   },
   {
     "id": 11,
     "name": "Zephyr",
-    "image": "public/assets/images/zephyr.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgfnsqjbBUCzBM77XQ0u3C7JT2Axv7IGYNBH88zu-50sRt59sK",
     "isClicked": false
   }
 ]
